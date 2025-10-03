@@ -1,4 +1,5 @@
 # Ex. No : 1
+
 # IMPLEMENTATION OF SYMBOL TABLE
 
 # Register Number :  212224040168
@@ -87,4 +88,5 @@ int main() {
 <img width="742" height="366" alt="image" src="https://github.com/user-attachments/assets/0ec8f202-2ea9-4fc7-8f09-70286ad05438" />
 
 # RESULT:
+
 The program to implement a symbol table is executed and the output is verified.
